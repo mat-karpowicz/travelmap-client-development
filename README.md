@@ -4,4 +4,5 @@ Fun with Mapbox and react-map-gl. App in which you can add places worth to visit
 ReactApp as a frontend and Node.js with Express as a backend. 
 
 App Live: https://travelplaces.netlify.app/
+
 Server repo: https://github.com/mat-karpowicz/travelmap-server-development
